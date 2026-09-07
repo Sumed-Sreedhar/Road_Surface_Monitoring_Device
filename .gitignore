@@ -43,3 +43,9 @@ makefile
 # ESP32 Firmware (firmware-esp32)
 # ==========================================
 firmware-esp32/build/
+
+# Antigravity IDE / Second Brain Context
+context.md
+implementation_plan.md
+walkthrough.md
+task.md
