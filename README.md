@@ -58,7 +58,7 @@ geo-tags them with real-time GPS, and streams telemetry to a live web dashboard.
 
 The **Road Condition Monitoring System** is a complete end-to-end embedded IoT platform that mounts on an RC vehicle and autonomously surveys road surface quality in real time.
 
-The STM32F446RE microcontroller fuses data from an **IMU**, **ultrasonic rangefinder**, and **GPS receiver** to detect and geo-tag road anomalies — potholes and rough patches. Classified events are forwarded over UART to an **ESP32-S3 Wi-Fi gateway**, which uploads them to a **Python backend** for live visualization on a Leaflet.js map dashboard.
+The **STM32F446RE microcontroller** fuses data from an **IMU**, **ultrasonic rangefinder**, and **GPS receiver** to detect and geo-tag road anomalies — potholes and rough patches. Classified events are forwarded over UART to an **ESP32-S3 Wi-Fi gateway**, which uploads them to a **Python backend** for live visualization on a Leaflet.js map dashboard.
 
 <br>
 
